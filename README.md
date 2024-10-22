@@ -18,8 +18,3 @@ Please note that the hyperparameter tuning result might be different wi.h the on
 
 - MIE424 Project Amazon.ipynb This is the file with testing the model with the best hyperparameter setting on the Aamazon Review.csv.
 
-To implement this file, one needs to download the Amazon Review.csv file and run the code.
-
-- MIE424 Project Compare SGD and Adam.ipynb This is the file to compare the difference between using Adam and SGD.
-
-To implement this file, please download the MovieLens.csv file and run the code.
